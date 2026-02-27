@@ -1,4 +1,4 @@
-# **[Optim.Lab](http://ranking.uos.ac.kr/index.html)** 
+# **[Optim.Lab.](http://ranking.uos.ac.kr/index.html)** 
 
 ### Optimization & Machine Learning Laboratory  
 **Department of Statistics and Data Science, University of Seoul**
